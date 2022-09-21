@@ -8,5 +8,6 @@ public class Assertion {
 	//gdg
 		void test() {
 		System.out.println("hello");
+		System.out.println("hi");
 	}
 }
