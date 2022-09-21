@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 public class Assertion {
 
 	@Test
-	public void test1() {
-		//commit1
-		
+	
+		void test() {
+		System.out.println("hello");
 	}
 }
